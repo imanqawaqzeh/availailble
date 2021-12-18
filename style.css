@@ -1,0 +1,55 @@
+h1{
+    color: rgb(211, 22, 50);
+    text-align: center;
+}
+
+html{
+    background-image: url(https://modo3.com/thumbs/fit630x300/52001/1589755465/%D8%B7%D8%B1%D9%8A%D9%82%D8%A9_%D8%B9%D9%85%D9%84_%D8%A7%D9%84%D8%A2%D9%8A%D8%B3_%D9%83%D8%B1%D9%8A%D9%85_%D8%A8%D8%A7%D9%84%D9%85%D9%86%D8%B2%D9%84.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+img{
+    width: 170px;
+    margin: 2%;
+    height: 170px;
+    border: rgb(172, 197, 80) 3px solid;
+    border-radius: 30px;
+   transition: 400ms;
+}
+img:hover{
+    width: 220px;
+    margin: 2%;
+    height: 220px;
+    border: rgb(219, 200, 200) 8px double;
+    border-radius: 100px 30px 100px 30px;
+   transition: 400ms;
+}
+
+li{
+    font-size: 25px;
+    
+    margin: 2%;
+}
+
+li:hover{
+    background-color: rgba(228, 226, 114, 0.842);
+}
+
+
+ul{
+   
+
+}
+
+main{
+    margin-left: 40%;
+    display: inline;
+    
+}
+
+p{
+    text-align: center;
+font-size: 18px;
+
+}
+
