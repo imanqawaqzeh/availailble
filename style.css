@@ -53,3 +53,9 @@ font-size: 18px;
 
 }
 
+.pp{
+    float: right;
+    background-color: rgb(218, 30, 102);
+    border-radius: 4%;
+    margin-top: 4%;
+}
